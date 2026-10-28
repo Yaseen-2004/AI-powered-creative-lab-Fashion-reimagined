@@ -1,0 +1,25 @@
+{
+  "class_to_id": {
+    "Dresses": 0,
+    "Jackets": 1,
+    "Jeans": 2,
+    "Kurtas": 3,
+    "Shirts": 4,
+    "Shorts": 5,
+    "Trousers": 6,
+    "Tshirts": 7
+  },
+  "class_names": [
+    "Dresses",
+    "Jackets",
+    "Jeans",
+    "Kurtas",
+    "Shirts",
+    "Shorts",
+    "Trousers",
+    "Tshirts"
+  ],
+  "image_size": 128,
+  "latent_dim": 128,
+  "note": "Verify class_names against the exact class_names printed during training. Labels must preserve the original training order."
+}
